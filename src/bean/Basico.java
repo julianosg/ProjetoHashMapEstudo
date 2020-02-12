@@ -3,7 +3,7 @@ package bean;
 public class Basico {
 	
 	private int codigo;
-	private String Descricao;
+	private String descricao;
 	
 	
 	public int getCodigo() {
@@ -15,10 +15,10 @@ public class Basico {
 	}
 	
 	public String getDescricao() {
-		return Descricao;
+		return descricao;
 	}
 	
 	public void setDescricao(String descricao) {
-		Descricao = descricao;
+		this.descricao = descricao;
 	}
 }
