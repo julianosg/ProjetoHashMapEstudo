@@ -5,7 +5,6 @@ public class Basico {
 	private int codigo;
 	private String descricao;
 	
-	
 	public int getCodigo() {
 		return codigo;
 	}
